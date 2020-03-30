@@ -1,2 +1,2 @@
 # SSW-810-Python
-Coursework
+Assignments and Coursework
